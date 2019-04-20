@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11bd9a71-2449-48fd-b608-de8c6892f24a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/instructor/lessons/new.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/models/section.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/models/section.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/instructor/courses/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/instructor/courses/show.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/routes.rb" beforeDir="false" afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db/schema.rb" beforeDir="false" afterPath="$PROJECT_DIR$/db/schema.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/instructor/lessons_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/instructor/lessons_controller.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/instructor/lessons/new.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/instructor/lessons/new.html.erb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -54,9 +50,9 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="41" />
-          <entry key="erb" value="1865" />
+          <entry key="erb" value="1873" />
           <entry key="js" value="2" />
-          <entry key="rb" value="2110" />
+          <entry key="rb" value="2291" />
           <entry key="scss" value="422" />
           <entry key="yml" value="54" />
         </counts>
@@ -64,8 +60,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="2" />
-          <entry key="RHTML" value="1865" />
-          <entry key="Ruby" value="2151" />
+          <entry key="RHTML" value="1873" />
+          <entry key="Ruby" value="2332" />
           <entry key="SCSS" value="422" />
           <entry key="YAML" value="54" />
         </counts>
@@ -86,11 +82,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/instructor/lessons_controller.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="322">
-              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+            <state relative-caret-position="161">
+              <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -107,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/instructor/lessons/new.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
+            <state relative-caret-position="69">
+              <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
             </state>
           </provider>
         </entry>
@@ -131,7 +127,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/instructor/courses/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="391">
@@ -216,9 +212,9 @@
         <option value="$PROJECT_DIR$/app/models/section.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/instructor/courses/new.html.erb" />
+        <option value="$PROJECT_DIR$/app/views/instructor/courses/show.html.erb" />
         <option value="$PROJECT_DIR$/app/views/instructor/lessons/new.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/instructor/lessons_controller.rb" />
-        <option value="$PROJECT_DIR$/app/views/instructor/courses/show.html.erb" />
       </list>
     </option>
   </component>
@@ -264,6 +260,19 @@
               <item name="flixter" type="b2602c69:ProjectViewProjectNode" />
               <item name="flixter" type="462c0819:PsiDirectoryNode" />
               <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flixter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flixter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="instructor" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="flixter" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flixter" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -279,7 +288,7 @@
               <item name="app" type="462c0819:PsiDirectoryNode" />
               <item name="views" type="462c0819:PsiDirectoryNode" />
               <item name="instructor" type="462c0819:PsiDirectoryNode" />
-              <item name="courses" type="462c0819:PsiDirectoryNode" />
+              <item name="lessons" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -430,12 +439,12 @@
       <workItem from="1551803765464" duration="2899000" />
       <workItem from="1551809902495" duration="53000" />
       <workItem from="1552010254059" duration="8796000" />
-      <workItem from="1555779101409" duration="14025000" />
+      <workItem from="1555779101409" duration="15802000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="42319000" />
+    <option name="totallyTimeSpent" value="44096000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -693,20 +702,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/instructor/lessons/new.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="2" selection-start-line="7" selection-start-column="2" selection-end-line="7" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/instructor/lessons_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/instructor/courses/new.html.erb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -718,6 +713,20 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="391">
           <caret line="26" column="7" selection-start-line="26" selection-start-column="7" selection-end-line="26" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/instructor/lessons/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="76" selection-start-line="3" selection-start-column="76" selection-end-line="3" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/instructor/lessons_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
         </state>
       </provider>
     </entry>
