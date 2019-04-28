@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="11bd9a71-2449-48fd-b608-de8c6892f24a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/layouts/application.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/views/lessons/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/lessons/show.html.erb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/assets/stylesheets/master.scss" beforeDir="false" afterPath="$PROJECT_DIR$/app/assets/stylesheets/master.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/courses/show.html.erb" beforeDir="false" afterPath="$PROJECT_DIR$/app/views/courses/show.html.erb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.bundle/" />
     <ignored path="$PROJECT_DIR$/components/" />
@@ -37,7 +36,7 @@
           <entry key="js" value="2" />
           <entry key="lock" value="1" />
           <entry key="rb" value="36" />
-          <entry key="scss" value="3" />
+          <entry key="scss" value="4" />
           <entry key="yml" value="4" />
         </counts>
       </usages-collector>
@@ -47,26 +46,26 @@
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="RHTML" value="25" />
           <entry key="Ruby" value="40" />
-          <entry key="SCSS" value="3" />
+          <entry key="SCSS" value="4" />
           <entry key="YAML" value="4" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="Gemfile" value="110" />
-          <entry key="erb" value="2090" />
+          <entry key="erb" value="2122" />
           <entry key="js" value="2" />
           <entry key="rb" value="2549" />
-          <entry key="scss" value="422" />
+          <entry key="scss" value="435" />
           <entry key="yml" value="140" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JavaScript" value="2" />
-          <entry key="RHTML" value="2090" />
+          <entry key="RHTML" value="2122" />
           <entry key="Ruby" value="2659" />
-          <entry key="SCSS" value="422" />
+          <entry key="SCSS" value="435" />
           <entry key="YAML" value="140" />
         </counts>
       </usages-collector>
@@ -95,11 +94,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/views/lessons/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+            <state relative-caret-position="437">
+              <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -131,20 +130,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/uploaders/video_uploader.rb">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/views/courses/show.html.erb">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+            <state relative-caret-position="851">
+              <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/views/courses/show.html.erb">
+        <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/master.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
+            <state relative-caret-position="1229">
+              <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
             </state>
           </provider>
         </entry>
@@ -198,7 +197,6 @@
         <option value="$PROJECT_DIR$/app/views/devise/passwords/edit.html.erb" />
         <option value="$PROJECT_DIR$/db/migrate/20190204033203_create_courses.rb" />
         <option value="$PROJECT_DIR$/app/models/user.rb" />
-        <option value="$PROJECT_DIR$/app/assets/stylesheets/master.scss" />
         <option value="$PROJECT_DIR$/app/views/index.html.erb" />
         <option value="$PROJECT_DIR$/app/views/static_pages/index.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/courses_controller.rb" />
@@ -222,10 +220,11 @@
         <option value="$PROJECT_DIR$/app/views/instructor/lessons/new.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/instructor/lessons_controller.rb" />
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/app/views/courses/show.html.erb" />
         <option value="$PROJECT_DIR$/app/controllers/lessons_controller.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/lessons/show.html.erb" />
+        <option value="$PROJECT_DIR$/app/assets/stylesheets/master.scss" />
+        <option value="$PROJECT_DIR$/app/views/courses/show.html.erb" />
       </list>
     </option>
   </component>
@@ -287,7 +286,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="SearchEverywhereHistoryKey" value="show.&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/lessons/show.html.erb&#10;application.html.erb&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/layouts/application.html.erb&#10;show.html&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/lessons/show.html.erb&#10;lessons_contr&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/controllers/lessons_controller.rb&#10;show&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/courses/show.html.erb&#10;routes.&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/config/routes.rb&#10;lessons_c&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/controllers/instructor/lessons_controller.rb&#10;new&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/instructor/lessons/new.html.erb&#10;lesson.&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/models/lesson.rb&#10;video_&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/uploaders/video_uploader.rb&#10;Image&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/uploaders/image_uploader.rb&#10;application&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/config/application.yml&#10;gemfile&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/Gemfile&#10;geme&#9;null&#9;null&#10;carri&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/config/initializers/carrierwave.rb&#10;in&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/courses/index.html.erb&#10;schema&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/db/schema.rb&#10;index&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/courses/index.html.erb&#10;image&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/uploaders/image_uploader.rb&#10;Gem&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/Gemfile" />
+    <property name="SearchEverywhereHistoryKey" value="master.&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/assets/stylesheets/master.scss&#10;show.html&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/courses/show.html.erb&#10;show.&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/lessons/show.html.erb&#10;application.html.erb&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/layouts/application.html.erb&#10;lessons_contr&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/controllers/lessons_controller.rb&#10;show&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/courses/show.html.erb&#10;routes.&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/config/routes.rb&#10;lessons_c&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/controllers/instructor/lessons_controller.rb&#10;new&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/instructor/lessons/new.html.erb&#10;lesson.&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/models/lesson.rb&#10;video_&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/uploaders/video_uploader.rb&#10;Image&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/uploaders/image_uploader.rb&#10;application&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/config/application.yml&#10;gemfile&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/Gemfile&#10;geme&#9;null&#9;null&#10;carri&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/config/initializers/carrierwave.rb&#10;in&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/courses/index.html.erb&#10;schema&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/db/schema.rb&#10;index&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/views/courses/index.html.erb&#10;image&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/app/uploaders/image_uploader.rb&#10;Gem&#9;FILE&#9;file:///Users/sarunkum/Desktop/coding-environment/src/flixter/Gemfile" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -431,12 +430,12 @@
       <workItem from="1552010254059" duration="8796000" />
       <workItem from="1555779101409" duration="18305000" />
       <workItem from="1556072744619" duration="6803000" />
-      <workItem from="1556467143922" duration="7630000" />
+      <workItem from="1556467143922" duration="9093000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61032000" />
+    <option name="totallyTimeSpent" value="62495000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -560,13 +559,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="161">
           <caret line="7" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/master.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="157">
-          <caret line="94" column="11" selection-start-line="94" selection-start-column="1" selection-end-line="94" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -753,13 +745,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/courses/show.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="40" column="8" selection-start-line="40" selection-start-column="8" selection-end-line="40" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/controllers/lessons_controller.rb">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="230">
@@ -776,8 +761,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/lessons/show.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
+        <state relative-caret-position="437">
+          <caret line="19" column="6" lean-forward="true" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/assets/stylesheets/master.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1229">
+          <caret line="134" lean-forward="true" selection-start-line="134" selection-end-line="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/courses/show.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="851">
+          <caret line="37" column="22" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
         </state>
       </provider>
     </entry>
