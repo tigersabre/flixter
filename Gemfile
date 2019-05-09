@@ -11,6 +11,7 @@ gem 'fog-aws'
 gem 'rails', '~> 5.2.2'
 gem 'figaro'
 gem 'mini_magick'
+gem "font-awesome-rails"
 gem 'carrierwave-aws'
 gem 'stripe'
 gem 'ranked-model'
